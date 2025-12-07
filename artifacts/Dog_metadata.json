@@ -6,38 +6,26 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256[]",
-						"name": "data",
-						"type": "uint256[]"
-					}
-				],
-				"name": "processCalldata",
+				"inputs": [],
+				"name": "eat",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"stateMutability": "pure",
 				"type": "function"
 			},
 			{
-				"inputs": [
-					{
-						"internalType": "uint256[]",
-						"name": "data",
-						"type": "uint256[]"
-					}
-				],
-				"name": "processMemory",
+				"inputs": [],
+				"name": "makeSound",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"stateMutability": "pure",
@@ -57,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/OptimizedContract.sol": "OptimizedContract"
+			"contracts/lesson6.1/03 AnimalsAbs.sol": "Dog"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -71,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/OptimizedContract.sol": {
-			"keccak256": "0xd05854d43226d64ab588cfae36ed84e00b061bfed0fe659d9127b47e6fc1f054",
+		"contracts/lesson6.1/03 AnimalsAbs.sol": {
+			"keccak256": "0x6e7a0777510fd117257847099b2767483acdcadeabc3d6e264dda3ba0f0fc649",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e4ecce3ea733595b6550bf2748bea5625a18f51064597cf1fa7cbf4aea5def4f",
-				"dweb:/ipfs/QmaJeRxargSUYAC4ch5SY8RjBC6L8FAJgkka4zaxTPsrRN"
+				"bzz-raw://e62ea35980494aa50cfce257740d9b824d5a74f736f71ed9665515070181ddea",
+				"dweb:/ipfs/QmboDrkTxW1s8P3pJVo5nqjXJhkySJkpsW5c5QmTSWAbcC"
 			]
 		}
 	},

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lesson6.1/01 ManySuper.sol": "B"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lesson6.1/01 ManySuper.sol": {
+			"keccak256": "0x80219f347ba9c03d91a827dc45de79eda3c0afcad84f193e5170626e3466d957",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://11fdf7a3f55d98fadd4202af8d7084ea18056d653ff1d49bc4c3af599d8ca19c",
+				"dweb:/ipfs/QmUJYASmikmTSJvUjw7vLTPuhrmkv6UScfTCF7PxLxDQVY"
+			]
+		}
+	},
+	"version": 1
+}

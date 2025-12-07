@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "eat",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "makeSound",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lesson6.1/03 AnimalsAbs.sol": "Animal"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lesson6.1/03 AnimalsAbs.sol": {
+			"keccak256": "0x6e7a0777510fd117257847099b2767483acdcadeabc3d6e264dda3ba0f0fc649",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e62ea35980494aa50cfce257740d9b824d5a74f736f71ed9665515070181ddea",
+				"dweb:/ipfs/QmboDrkTxW1s8P3pJVo5nqjXJhkySJkpsW5c5QmTSWAbcC"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lesson6.1/03 AnimalsAbs.sol": "Anli"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lesson6.1/03 AnimalsAbs.sol": {
+			"keccak256": "0x5e4d0b802c7d9c702ac58830e3a951828324858d7a5bd7e98ec0c245b8480490",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bc3992d2788fea62432100aba2b0676208eeaaa498b1a16032153fcaa3e97a9d",
+				"dweb:/ipfs/QmdRo2iJxhNnJZ7QTNgEMm3jA219z1N239tEjx4SMTBPiF"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lesson6.1/03 AnimalsAbs.sol": "An"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lesson6.1/03 AnimalsAbs.sol": {
+			"keccak256": "0x8458dfe363094d0abf787a48faec8c993721d7efcdade55d971e88ca6a546f17",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a474e244b660551d1d21ce3a6e9ebef53cf96dbf92095c09ee0015731f1fea1f",
+				"dweb:/ipfs/QmWZJJYHd79tBWwQmst1EiUvZjv4VRGGKEE5cZw4HjqSvA"
+			]
+		}
+	},
+	"version": 1
+}
