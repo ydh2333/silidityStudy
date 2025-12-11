@@ -1,0 +1,124 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getValue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "reset",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value",
+						"type": "uint256"
+					}
+				],
+				"name": "setValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {
+				"reset()": {
+					"details": "V1没有这个函数，升级后可以使用"
+				},
+				"setValue(uint256)": {
+					"params": {
+						"_value": "要设置的值"
+					}
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {
+				"getValue()": {
+					"notice": "获取值"
+				},
+				"reset()": {
+					"notice": "新增功能：重置值"
+				},
+				"setValue(uint256)": {
+					"notice": "设置值（新逻辑：值翻倍）"
+				}
+			},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lesson8.1/03ProxyCon.sol": "ImplementationV2"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lesson8.1/03ProxyCon.sol": {
+			"keccak256": "0xdd9adc22183bf35756fad9862b8cfb8af4e02d96d34ca428b9f08a19a59f4eda",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0caf7264f3167b6958c471eddb76a3bd0241cea2b66e918af076f9474e76f804",
+				"dweb:/ipfs/QmeVM41JzDAshfvYKMN37Arsn6PSy6z3XWMTBqLk75x1TL"
+			]
+		}
+	},
+	"version": 1
+}
