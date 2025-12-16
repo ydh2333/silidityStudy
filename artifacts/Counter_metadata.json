@@ -65,7 +65,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/04Create2.sol": "Counter"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

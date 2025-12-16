@@ -117,7 +117,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/01SimpleTokenSwap.sol": "IERC20"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

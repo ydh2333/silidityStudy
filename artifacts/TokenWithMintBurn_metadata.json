@@ -361,7 +361,7 @@
 		"compilationTarget": {
 			"contracts/lesson5.1/TokenWithMintBurn.sol": "TokenWithMintBurn"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

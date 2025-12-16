@@ -59,7 +59,7 @@
 		"compilationTarget": {
 			"contracts/OptimizedContract.sol": "OptimizedContract"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

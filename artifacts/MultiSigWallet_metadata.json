@@ -349,7 +349,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/02MultiSigWallet.sol": "MultiSigWallet"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

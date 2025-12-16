@@ -240,7 +240,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/01SimpleTokenSwap.sol": "SimpleToken"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

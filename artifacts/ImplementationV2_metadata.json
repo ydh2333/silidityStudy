@@ -99,7 +99,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/03ProxyCon.sol": "ImplementationV2"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

@@ -90,7 +90,7 @@
 		"compilationTarget": {
 			"contracts/TestOverflow.sol": "TestOveeFlow"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

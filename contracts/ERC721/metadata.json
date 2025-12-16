@@ -1,0 +1,9 @@
+{
+  "name": "My first NFT",
+  "description": "This is my first NFT",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreiceqbcb67nilk7mg6pch6lnljxulkqunb7rntiwdwmx7eqnsagv3a",
+  "attributes": [
+    { "trait_type": "Color", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

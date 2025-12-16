@@ -60,7 +60,7 @@
 		"compilationTarget": {
 			"contracts/lesson6.1/02 OwnerSystem.sol": "Pausable"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

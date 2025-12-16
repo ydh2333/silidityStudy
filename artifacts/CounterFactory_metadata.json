@@ -83,7 +83,7 @@
 		"compilationTarget": {
 			"contracts/lesson8.1/04Create2.sol": "CounterFactory"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

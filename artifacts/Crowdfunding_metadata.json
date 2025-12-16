@@ -149,7 +149,7 @@
 		"compilationTarget": {
 			"contracts/ZhongChou.sol": "Crowdfunding"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
